@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.9dc705bc.css",
+    "main.js": "/my-react-app/static/js/main.5dde08e2.js",
+    "static/js/453.7bf09c02.chunk.js": "/my-react-app/static/js/453.7bf09c02.chunk.js",
+    "static/media/escrappy_web.mp4": "/my-react-app/static/media/escrappy_web.4587fa2b0c62287e331f.mp4",
+    "static/media/escrappy_mob.mp4": "/my-react-app/static/media/escrappy_mob.f1f41f91da8fb2ca1c36.mp4",
+    "static/media/logo.png": "/my-react-app/static/media/logo.79a16ef3be3c2993c5e0.png",
+    "index.html": "/my-react-app/index.html",
+    "main.9dc705bc.css.map": "/my-react-app/static/css/main.9dc705bc.css.map",
+    "main.5dde08e2.js.map": "/my-react-app/static/js/main.5dde08e2.js.map",
+    "453.7bf09c02.chunk.js.map": "/my-react-app/static/js/453.7bf09c02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dc705bc.css",
+    "static/js/main.5dde08e2.js"
+  ]
+}
