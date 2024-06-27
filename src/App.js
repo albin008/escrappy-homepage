@@ -106,7 +106,7 @@ function App() {
         <div className="content-box" id="div1">
         </div>
         </a>
-        <a href="https://hegal-front-git-main-naazzzim.vercel.app/about">
+        <a href="https://escrappyrecyclers.com/">
         <div className="content-box" id="div2">
         </div>
         </a>
