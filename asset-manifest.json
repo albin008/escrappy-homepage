@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/escrappy-homepage/static/css/main.b0d73883.css",
-    "main.js": "/escrappy-homepage/static/js/main.1c930bd1.js",
+    "main.js": "/escrappy-homepage/static/js/main.59798edd.js",
     "static/js/453.7bf09c02.chunk.js": "/escrappy-homepage/static/js/453.7bf09c02.chunk.js",
     "static/media/escrappy_web.mp4": "/escrappy-homepage/static/media/escrappy_web.4587fa2b0c62287e331f.mp4",
     "static/media/escrappy_mob.mp4": "/escrappy-homepage/static/media/escrappy_mob.f1f41f91da8fb2ca1c36.mp4",
@@ -11,11 +11,11 @@
     "static/media/uae.png": "/escrappy-homepage/static/media/uae.32f47934618a7fe4c7d5.png",
     "index.html": "/escrappy-homepage/index.html",
     "main.b0d73883.css.map": "/escrappy-homepage/static/css/main.b0d73883.css.map",
-    "main.1c930bd1.js.map": "/escrappy-homepage/static/js/main.1c930bd1.js.map",
+    "main.59798edd.js.map": "/escrappy-homepage/static/js/main.59798edd.js.map",
     "453.7bf09c02.chunk.js.map": "/escrappy-homepage/static/js/453.7bf09c02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0d73883.css",
-    "static/js/main.1c930bd1.js"
+    "static/js/main.59798edd.js"
   ]
 }
